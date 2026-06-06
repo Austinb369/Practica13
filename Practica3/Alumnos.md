@@ -6,3 +6,6 @@ Austin Blanco
 Sheila Santoyo
 Jaqueline Salazar
 Alexandro de la Vega
+Edwin Ledezma
+Moira Villalobos
+Fierro Pariente
