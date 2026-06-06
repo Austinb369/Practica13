@@ -3,3 +3,5 @@ Hiram Quintana
 Erick Aguilar
 Arturo Valladares
 Austin Blanco
+Sheila Santoyo
+Jaqueline Salazar
