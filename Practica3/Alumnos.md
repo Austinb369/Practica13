@@ -5,3 +5,4 @@ Arturo Valladares
 Austin Blanco
 Sheila Santoyo
 Jaqueline Salazar
+Alexandro de la Vega
