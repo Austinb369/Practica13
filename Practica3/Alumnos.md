@@ -6,3 +6,5 @@ Austin Blanco
 Sheila Santoyo
 Jaqueline Salazar
 Alexandro de la Vega
+Luis Batista
+Sebastian Garcia
