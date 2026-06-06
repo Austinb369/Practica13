@@ -8,3 +8,6 @@ Jaqueline Salazar
 Alexandro de la Vega
 Luis Batista
 Sebastian Garcia
+Edwin Ledezma
+Moira Villalobos
+Fierro Pariente
