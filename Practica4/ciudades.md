@@ -4,3 +4,5 @@ Guadalajara
 CDMX
 Cancún
 Puebla
+Acapulco
+Culiacán
