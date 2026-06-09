@@ -2,3 +2,5 @@ Chihuahua
 Monterrey
 Guadalajara
 CDMX
+Cancún
+Puebla
