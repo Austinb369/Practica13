@@ -2,3 +2,5 @@ Chihuahua
 Monterrey
 Guadalajara
 CDMX
+Acapulco
+Culiacán
