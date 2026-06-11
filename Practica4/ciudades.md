@@ -6,3 +6,5 @@ Cancún
 Puebla
 Acapulco
 Culiacán
+Mazatlán
+Juárez
